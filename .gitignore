@@ -76,4 +76,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Xx]Lua/Gen/*
 
 /webgl_build/
+/mini_game/
+
 

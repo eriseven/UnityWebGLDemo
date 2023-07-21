@@ -1824,7 +1824,7 @@ namespace CSObjectWrapEditor
             {
                 return;
             }
-            if (!DelegateBridge.Gen_Flag)
+            if (!DelegateBridge.Gen_Flag && Application.isBatchMode)
             {
                 throw new InvalidOperationException("Code has not been generated, may be not work in phone!");
             }

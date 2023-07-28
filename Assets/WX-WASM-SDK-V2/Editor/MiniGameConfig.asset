@@ -15,7 +15,7 @@ MonoBehaviour:
   ProjectConf:
     projectName: 
     Appid: wx6903e7f6e54f1792
-    CDN: localhost
+    CDN: http://localhost
     assetLoadType: 1
     compressDataPackage: 0
     VideoUrl: 
@@ -50,7 +50,7 @@ MonoBehaviour:
     ScriptOnly: 0
     Il2CppOptimizeSize: 1
     profilingFuncs: 0
-    Webgl2: 0
+    Webgl2: 1
     fbslim: 0
     DeleteStreamingAssets: 1
     ProfilingMemory: 0
